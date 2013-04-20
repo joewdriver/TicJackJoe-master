@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicJackJoe</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Tic Jack Joe!</string>
+	<string name="Win Congratulations">Congratulations, you have won!</string>
+    <string name="Tie Game">Tie Game!</string>
+</resources>
